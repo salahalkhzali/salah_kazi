@@ -1,4 +1,4 @@
-# Hello there! I'm [Salah] | Computer Engineer 💻 👋
+# Hello there! I'm Salah | Computer Engineer 💻 👋
 
 > I am a passionate Computer Engineering student/graduate dedicated to bridging the gap between hardware and software. Currently, I am focused on mobile development, web technologies, and exploring the depths of security systems.
 
@@ -47,3 +47,4 @@
 ### 📫 Connect with me:
 
 [![Gmail](alk3ly@gmail.com)
+
